@@ -1,0 +1,21 @@
+Package: syncmount
+Architecture: amd64
+Conflicts: usbmount
+Depends: libudev1, libblkid1, libc6, libstdc++6
+Priority: optional
+Section: utils
+Filename: pool/main/s/syncmount/syncmount_1.0.0_amd64.deb
+Size: 203814
+SHA256: 139df780d9f16f680da95408d13e47eae4d0a7239519855e18db3a1ba177a0c6
+SHA1: 70c75240952ecf8cec531f969645de9a9d6723c4
+MD5sum: 8183b1850f41fdf95385cac9de530218
+Description: USB automount daemon for AR-Fi Sync
+ This piece of software is designed and implemented as a single-client daemon utility,
+ intended for use by its client as source of notifications about mount/unmount events.
+ Syncmount uses Linux kernel bindings to monitor attachment and detachment of USB mass storage devices and mounts found partitions/volumes with filesystems, supported by kernel.
+ The nature of tasks, run by syncmount, requires root privileges to be able to mount filesystems.
+Homepage: https://github.com/ar-fi/syncmount
+Maintainer: dev@ar-fi.com
+Version: 1.0.0
+Installed-Size: 885
+

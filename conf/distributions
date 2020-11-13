@@ -1,0 +1,6 @@
+Origin: ar-fi.github.io/deb
+Label: ar-fi.github.io/deb
+Codename: focal
+Architectures: amd64 armhf
+Components: main
+SignWith: 8638F451
