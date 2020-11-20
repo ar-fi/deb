@@ -1,27 +1,27 @@
 Origin: ar-fi.github.io/deb
 Label: ar-fi.github.io/deb
 Codename: focal
-Date: Sat, 14 Nov 2020 20:09:19 UTC
+Date: Fri, 20 Nov 2020 23:19:15 UTC
 Architectures: amd64 armhf
 Components: main
 MD5Sum:
- 7e6001ca7d16c33a4e7157011a589c02 978 main/binary-amd64/Packages
- 343ca8c0422f5fbe8dc79da8b5ac0b60 628 main/binary-amd64/Packages.gz
+ 4cc0adf66eb138edf21ac839dd697b45 979 main/binary-amd64/Packages
+ c84772957152cc790db6036299a6ddbb 630 main/binary-amd64/Packages.gz
  a09fbb11bce33c9c05cbdb8979988484 91 main/binary-amd64/Release
- 9f97fee0891931e33cad79d554436f6a 978 main/binary-armhf/Packages
- f8c2a66254b3358ae61c36ce5bb5d71e 630 main/binary-armhf/Packages.gz
+ 84cce0bc6cdc70325d1536ace0e14321 979 main/binary-armhf/Packages
+ 179ff70fcb6fdee00140a1e682346444 628 main/binary-armhf/Packages.gz
  7219ce7756ba80fdb4faaacefcc3960d 91 main/binary-armhf/Release
 SHA1:
- a3f984ed02fe09859e418a2715480de126406d54 978 main/binary-amd64/Packages
- bb544d15f45f7e508ebd864112c402782c535b65 628 main/binary-amd64/Packages.gz
+ c594a2059871e9aa0be20617945286dea9e57890 979 main/binary-amd64/Packages
+ b4bfe110b017a8ae26dd433a45bed6e2052f98d3 630 main/binary-amd64/Packages.gz
  909a1904413cab21d322090319ce329bd225d475 91 main/binary-amd64/Release
- fc0fb5f7908ab191538294e83d129be02003ef04 978 main/binary-armhf/Packages
- 7f25c7a4d35b04c6bf5c21311d9ccc5abbfc9b51 630 main/binary-armhf/Packages.gz
+ acaeb11e298feeea76b0230d46a20941c39d422d 979 main/binary-armhf/Packages
+ ba8b4a348c0d87d0f37a090eb84ecc0671fe0aae 628 main/binary-armhf/Packages.gz
  30e280067b4ebd90af99cf46f53ece4ba40e7cf0 91 main/binary-armhf/Release
 SHA256:
- ac5fc4f0fcbdaba8fde19ebb850b809bcc5bb80afc38204dc3c5aadbc9c7fedf 978 main/binary-amd64/Packages
- 0c3240a06b6bacf8b332b2e14ac9b9d9388a755de0fa20a79938a680155767b7 628 main/binary-amd64/Packages.gz
+ 71605a2357e909efa62ea5191acb0061b34351d0fbff64d89e3b6360002a5462 979 main/binary-amd64/Packages
+ 124360a446aeb276935ff57c30ac03760d415f8c2a158022d0531b7e7c45bb82 630 main/binary-amd64/Packages.gz
  c5463cce83e956a5058360594939bb9f495bf9864d54a4b74c96d789173c270e 91 main/binary-amd64/Release
- 50ee5c2c222d5fb115e3b9a36350a58ba90a510e5b4bfc754fc4c94d5289ae18 978 main/binary-armhf/Packages
- 12424b55951a36ae1a693cea07cc5e6e65a5f6b281cefc87e42b5c78052d0518 630 main/binary-armhf/Packages.gz
+ d351fd6dcff66eee8f57fc555080d76a3b09f139d226ee6661cd34ea7bfdc503 979 main/binary-armhf/Packages
+ 50946cf0dd15dd2ec792a536863e07fd0c8158ea4348bc73a792f281e218d075 628 main/binary-armhf/Packages.gz
  2cafd62f1b75067029a03321d5e64654a1ba94d74d79785b2c58b86ec821d54b 91 main/binary-armhf/Release
