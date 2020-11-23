@@ -4,11 +4,11 @@ Conflicts: usbmount
 Depends: libudev1, libblkid1, libc6, libstdc++6
 Priority: optional
 Section: utils
-Filename: pool/main/s/syncmount/syncmount_1.0.4_armhf.deb
-Size: 182202
-SHA256: 6da6483f5897e9bcbf215a42b8378bf497e1b883e14a848ca8d185aee73929c3
-SHA1: eaeced9483caa4f693bea95ed9f2cbc754e605cb
-MD5sum: 510d90330ebd57f5e077c42e8d603d1f
+Filename: pool/main/s/syncmount/syncmount_1.0.5_armhf.deb
+Size: 86198
+SHA256: 18fce009d7a6ba5e1b85e7babb9d9818b6f3925ad06286ec399a94517b1e222a
+SHA1: e01f725faecb4f1304a52ccde45288b32a0d1a7c
+MD5sum: 6e08bb37f6f271e507d13eed6278c203
 Description: USB automount daemon for AR-Fi Sync
  This piece of software is designed and implemented as a single-client daemon utility,
  intended for use by its client as source of notifications about mount/unmount events.
@@ -16,6 +16,6 @@ Description: USB automount daemon for AR-Fi Sync
  The nature of tasks, run by syncmount, requires root privileges to be able to mount filesystems.
 Homepage: https://github.com/ar-fi/syncmount
 Maintainer: dev@ar-fi.com
-Version: 1.0.4
-Installed-Size: 787
+Version: 1.0.5
+Installed-Size: 204
 

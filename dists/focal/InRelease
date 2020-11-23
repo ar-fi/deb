@@ -4,43 +4,43 @@ Hash: SHA512
 Origin: ar-fi.github.io/deb
 Label: ar-fi.github.io/deb
 Codename: focal
-Date: Fri, 20 Nov 2020 23:19:15 UTC
+Date: Mon, 23 Nov 2020 20:43:55 UTC
 Architectures: amd64 armhf
 Components: main
 MD5Sum:
- 4cc0adf66eb138edf21ac839dd697b45 979 main/binary-amd64/Packages
- c84772957152cc790db6036299a6ddbb 630 main/binary-amd64/Packages.gz
+ 636adbe671c04372149681d1c4d2ad0b 978 main/binary-amd64/Packages
+ bd944b8bf582a24705ddc80574470264 632 main/binary-amd64/Packages.gz
  a09fbb11bce33c9c05cbdb8979988484 91 main/binary-amd64/Release
- 84cce0bc6cdc70325d1536ace0e14321 979 main/binary-armhf/Packages
- 179ff70fcb6fdee00140a1e682346444 628 main/binary-armhf/Packages.gz
+ f039789d88d4c2561e1f87680555d5aa 978 main/binary-armhf/Packages
+ 7cddce95f2c0761648ec6d29babb3f4c 631 main/binary-armhf/Packages.gz
  7219ce7756ba80fdb4faaacefcc3960d 91 main/binary-armhf/Release
 SHA1:
- c594a2059871e9aa0be20617945286dea9e57890 979 main/binary-amd64/Packages
- b4bfe110b017a8ae26dd433a45bed6e2052f98d3 630 main/binary-amd64/Packages.gz
+ 23f437b75a4be9b7bf8de65d22f8e831105ae787 978 main/binary-amd64/Packages
+ beaf8ea81cfa0e91e02d44799de3284abe5b075a 632 main/binary-amd64/Packages.gz
  909a1904413cab21d322090319ce329bd225d475 91 main/binary-amd64/Release
- acaeb11e298feeea76b0230d46a20941c39d422d 979 main/binary-armhf/Packages
- ba8b4a348c0d87d0f37a090eb84ecc0671fe0aae 628 main/binary-armhf/Packages.gz
+ 1054231a23e2e147f5be540e5b36ee9e49c1847f 978 main/binary-armhf/Packages
+ 11dca1cf6bc45d9df7509a31cf9cabf9c9153150 631 main/binary-armhf/Packages.gz
  30e280067b4ebd90af99cf46f53ece4ba40e7cf0 91 main/binary-armhf/Release
 SHA256:
- 71605a2357e909efa62ea5191acb0061b34351d0fbff64d89e3b6360002a5462 979 main/binary-amd64/Packages
- 124360a446aeb276935ff57c30ac03760d415f8c2a158022d0531b7e7c45bb82 630 main/binary-amd64/Packages.gz
+ 18a3cae9feb947328065d2a2f4b9517e4ff9559ba07d66385efc544710c0643f 978 main/binary-amd64/Packages
+ 10d9ee5db614e7b4334b13154e1b3fd7374b7ce5c935a608ebd6e91284f39ef5 632 main/binary-amd64/Packages.gz
  c5463cce83e956a5058360594939bb9f495bf9864d54a4b74c96d789173c270e 91 main/binary-amd64/Release
- d351fd6dcff66eee8f57fc555080d76a3b09f139d226ee6661cd34ea7bfdc503 979 main/binary-armhf/Packages
- 50946cf0dd15dd2ec792a536863e07fd0c8158ea4348bc73a792f281e218d075 628 main/binary-armhf/Packages.gz
+ c823dd88b4e5242a293a3dc7cd072528ed688ac7889fbb9bbcb2d5b98c608b93 978 main/binary-armhf/Packages
+ 8f19353c6b9971892ebb221592dcb214b72c10dfd752ce9b07145b430ef695b2 631 main/binary-armhf/Packages.gz
  2cafd62f1b75067029a03321d5e64654a1ba94d74d79785b2c58b86ec821d54b 91 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEYjFJjvDP5JNUQlI1Cxea4IY49FEFAl+4TvQACgkQCxea4IY4
-9FFqNhAAkrLLp5HZTk7uJ8WzaNFOt8z/7rhGPjPXzksDrS/rmj2mw8rouHCIuZWb
-7gCxbL5flcL/sztZJlOl/Jq5xqPia3O+4Z4cS/ttIoBabSeVZ/ZbYAtcjN+VP+9p
-HuBL4czWWY3+UEc1U3tX8z2QFMynzuj8A2S9vy92+6mAks4VMm16yr2uQWfJL4w9
-sX/XQGHh0BZQGF+H18OUeiyI64F4B5rGxZsVbJBq8sKL1f57/iQsxTenMJ1rpbe5
-KnIwkBfQZGbYY49zgoTjQX3O+kA4eQ1dw5i7N/V4iNAkQlGQBmopUVx5KP6QaulL
-PmnX5r8Pb88g27BK3FmTFCTJoRtz39yrrYV4zlX+kZXKYAsmZzUMNd7Tu6CgNx4q
-ChWf9alNncvtz4e5XzAQyXUjMEsIPlfHzx+EVW2TIJ7fAfkNBOKgKl3y/7XTQ9eb
-ojRqysdxxeAPJCJcUNF17bFC4LzDPWHoUStXzfLk+Kiyw024QXQlFRAol2hyAul1
-QsqTqjj7R5df2bWVZ/FY9uWnvTmsnd0hDToVNisX1gyp5CM09RFW4ooOg7poGMw2
-q1ypz9jwgw1/W5S08i19b6BllepEzk3vcwoxN1Mke9yQZ9to86SlQJQSnTjC1WVE
-t/4CzdVT0IAJadHBP3/6w+U/25LzXgFhN5jD+yTEgVPwt0sZTWg=
-=2lNL
+iQIzBAEBCgAdFiEEYjFJjvDP5JNUQlI1Cxea4IY49FEFAl+8HwwACgkQCxea4IY4
+9FGBKg/8DkGsAsIAkdCqO/F0FXhciONfAKHMso0CNiBDBvXshli+vzm09AAzjVH8
+ueFaWyyNp+btmdZYU/+pfuiw3/rAvkKVMBrr9rR5XEC+CxFgwzLSOGHfrrZV7eg8
+vsx/bg5Ao6yo3NwaDCsnbKYTW1qUmVSp05RpQNtHgM8H2vkPPIRE4DAP2vllVVDf
++AYu5zU4dk0k1xjc6zQYR0F6yq2MVcXyNS3I7sDqZnBAQYvqMBY94OQDBSMIbOow
+WMsrm4Lp0DptrRroDyIfL9gqDPkPJ6RxuYxOJ8GZcpQbRay9+047xwsiTO6Dt1xX
+eTjcceyofgP0p9MQU71VGG8f7gWqU8/4GqCreJIdqzSq9tKG4/zszHVky9ISo5EZ
+m1ucxW+Mf+udAUhnG46QKNCRD99JC3vn3lRSJ6etEO/do4wsRf4zR8Gol8Z4KAlU
+ZtBoXv6+9Znu/WMgrk1oYigqprmEJmEckpeFleKdJ7au8aVyK8/5aPQ/l9EUBVnK
+7P8zJj+QImqW5HjvWWGIsl8efwGg5AARX5XK/90rlKG2c5lZQJaMA9mZCJM0Fq5Z
+U2XgmJjYt1/3VLeUjZ1V7y8/ZA37eOO4YTQLTNrrnZ96M6VuwHNOO5xHvxLeaOK1
+kBgbIP7CJeZ9+FGwAab889GPusDZXJQru/35FW0gTEmFPWKaLFo=
+=IMz7
 -----END PGP SIGNATURE-----
